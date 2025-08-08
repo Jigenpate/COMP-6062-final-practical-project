@@ -1,0 +1,22 @@
+h1{
+    background-color: cyan;
+    color: cadetblue;
+    padding: 20px;
+    margin-left: 2px;
+    margin-top: 10px;
+    border: black;
+}
+
+
+@media (min-width: 700px) {
+    body{
+        background-color: aliceblue;
+        font-size: medium;
+
+    }
+}
+
+footer{
+    margin-left: 2px;
+    margin-top: 10px;
+}
